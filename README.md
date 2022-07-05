@@ -1,4 +1,4 @@
-## Olá! Eu sou o Érico Toscano.
+## Olá! Eu sou o Érico Toscano!
 
 ### Seja bem vindo! 😁
 
