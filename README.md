@@ -3,5 +3,5 @@
 ### Seja bem vindo! 😁
 
 - 🌱 Atualmente estou estudando NodeJS.
-- 🤝 Pretendo colaborar em aplicações Blockchain.
+- 🤝 Pretendo colaborar em aplicações Web3.
 - 🏎️ Sou fã de Fórmula 1 (sim... é possível gostar do Hamilton e do Verstappen).
