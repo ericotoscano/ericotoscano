@@ -2,7 +2,7 @@
 
 ### Seja bem vindo! 😁
 
-- 🌱 Atualmente estou estudando desenvolvimento en NodeJS e desenvolvimento de D'Apps.
+- 🌱 Atualmente, estudando desenvolvimento em NodeJS e desenvolvimento de D'Apps.
 - 🤝 Pretendo colaborar em aplicações Web3.
 - 🏎️ Sou fã de Fórmula 1.
 
