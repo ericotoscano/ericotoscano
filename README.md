@@ -5,12 +5,6 @@
 - 🌱 Atualmente, estudando desenvolvimento em NodeJS e desenvolvimento de D'Apps.
 - 🤝 Pretendo colaborar em aplicações Web3.
 - 🏎️ Sou fã de Fórmula 1.
-
-<br>
-<div align="center">
-  <a href="https://github.com/ericotoscano">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericotoscano&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-</div>
   
   ##
   
