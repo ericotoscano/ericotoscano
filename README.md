@@ -4,8 +4,8 @@
 
 ##
 
-- 🌱 Atualmente, estudando desenvolvimento em NodeJS e desenvolvimento de D'Apps.
-- 🤝 Pretendo colaborar em aplicações Web3.
+- 🌱 Atualmente, trabalhando em projetos full-stack para Web 3.0.
+- 🤝 Entusiasta no desenvolvimento de D'apps.
 - 🏎️ Sou fã de Fórmula 1.
 
 ##
