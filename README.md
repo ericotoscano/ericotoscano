@@ -6,7 +6,6 @@
 
 - 🌱 Atualmente, trabalhando em projetos full-stack para Web 3.0.
 - :blue_book: Sempre disposto a estudar novas tecnologias de desenvolvimento.
-- 🏎️ Sou fã de Fórmula 1.
 
 ##
   
