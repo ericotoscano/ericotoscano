@@ -10,6 +10,10 @@
 - Atualmente, me dedico ao desenvolvimento backend de aplicações voltadas à tecnologia blockchain.
 - Estou sempre disposto a colaborar com novos projetos e trocar experiências com a comunidade.
 
+## English Version
+
+[![English](/assets/img/us.png)](https://github.com/ericotoscano/ecdsa-node/blob/main/README-en.md)
+
 ##
   
 <div style="display: inline_block" align="center"><br>
