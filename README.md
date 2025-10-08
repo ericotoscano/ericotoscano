@@ -23,11 +23,11 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" height="30">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" height="30">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" height="30">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" height="30">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Solidity.svg" height="30">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" height="40">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" height="40">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" height="40">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" height="40">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Solidity.svg" height="40">
 </p>
 
   
