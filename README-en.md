@@ -12,10 +12,22 @@
 
 ##
   
+### Techs
+
 <div style="display: inline_block" align="center"><br>
-    <img align="center" alt="Erico-NodeJS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
-    <img align="center" alt="Erico-Typescript" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
-    <img align="center" alt="Erico-Express" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg">
-    <img align="center" alt="Erico-Mongo" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg">
-    <img align="center" alt="Erico-Solidity" height="30" width="40"src="https://github.com/tandpfun/skill-icons/blob/main/icons/Solidity.svg">
+    <img align="center" alt="Erico-NodeJS" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
+    <img align="center" alt="Erico-Typescript" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
+    <img align="center" alt="Erico-Express" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg">
+    <img align="center" alt="Erico-Mongo" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg">
+    <img align="center" alt="Erico-Solidity" height="50" width="50"src="https://github.com/tandpfun/skill-icons/blob/main/icons/Solidity.svg">
+</div>
+
+##
+
+### Trocar Idioma
+
+<div style="display: inline_block" align="center"><br>
+    <a href="https://github.com/ericotoscano/ericotoscano/blob/main/README.md">
+        <img align="center" alt="Erico-Br" height="50" width="50" src="/br.png">
+    </a>
 </div>
