@@ -31,7 +31,5 @@
         <img align="center" alt="Erico-Us" height="50" width="50" src="/us.png">
     </a>
 </div>
-
-##
   
 
