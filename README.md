@@ -14,7 +14,7 @@
 
 ### English Version
 
-[![English](/estados-unidos.png)](https://github.com/ericotoscano/ericotoscano/blob/main/README-en.md)
+[![English](/us.png)](https://github.com/ericotoscano/ericotoscano/blob/main/README-en.md)
 
 ##
   
