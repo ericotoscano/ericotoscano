@@ -1,8 +1,8 @@
-## Olá!
+# Olá!
 
 ### Seja bem vindo! 😁
 
-### Eu sou o Érico Toscano.
+### Sou o Érico Toscano.
 
 ##
 
@@ -12,16 +12,24 @@
 
 ##
 
-### English Version
+### Tecnologias
 
-[![English](/us.png)](https://github.com/ericotoscano/ericotoscano/blob/main/README-en.md)
+<div style="display: inline_block" align="center"><br>
+    <img align="center" alt="Erico-NodeJS" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
+    <img align="center" alt="Erico-Typescript" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
+    <img align="center" alt="Erico-Express" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg">
+    <img align="center" alt="Erico-Mongo" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg">
+    <img align="center" alt="Erico-Solidity" height="50" width="50"src="https://github.com/tandpfun/skill-icons/blob/main/icons/Solidity.svg">
+</div>
+
+##
+
+### Change Language
+
+<div style="display: inline_block" align="center"><br>
+    <img align="center" alt="Erico-Us" height="50" width="50" src="/us.png">
+</div>
 
 ##
   
-<div style="display: inline_block" align="center"><br>
-    <img align="center" alt="Erico-NodeJS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
-    <img align="center" alt="Erico-Typescript" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
-    <img align="center" alt="Erico-Express" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg">
-    <img align="center" alt="Erico-Mongo" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg">
-    <img align="center" alt="Erico-Solidity" height="30" width="40"src="https://github.com/tandpfun/skill-icons/blob/main/icons/Solidity.svg">
-</div>
+
