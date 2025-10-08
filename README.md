@@ -14,7 +14,7 @@
 
 ### English Version
 
-[![English](/assets/img/us.png)](https://github.com/ericotoscano/ecdsa-node/blob/main/README-en.md)
+[![English](/estados-unidos.png)](https://github.com/ericotoscano/ecdsa-node/blob/main/README-en.md)
 
 ##
   
