@@ -27,7 +27,9 @@
 ### Change Language
 
 <div style="display: inline_block" align="center"><br>
-    <img align="center" alt="Erico-Us" height="50" width="50" src="/us.png">
+    <a href="https://github.com/ericotoscano/ericotoscano/blob/main/README-en.md">
+        <img align="center" alt="Erico-Us" height="50" width="50" src="/us.png">
+    </a>
 </div>
 
 ##
