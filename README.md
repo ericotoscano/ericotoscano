@@ -1,5 +1,3 @@
-## <img src="br.png" alt="BR" height="20" style="vertical-align: middle;"> Português
-
 ### Olá!  
 #### Seja bem-vindo! 😁  
 #### Sou o Érico Toscano!
