@@ -5,16 +5,14 @@
 
 <!-- Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=650&lines=Backend+Developer;Node.js+%2B+TypeScript;MongoDB+%7C+MySQL;Ethereum+dApps+%7C+Web3;Buscando+vaga+Backend+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=650&lines=Backend+Developer;Node.js+%2B+TypeScript;MongoDB+%7C+MySQL;Ethereum+dApps+%7C+Web3" />
 </p>
 
 ---
 
-# 👋 Olá, eu sou o Érico Toscano
+# 👋 Olá, eu sou o Érico!
 
 🚀 Desenvolvedor Backend focado em **Node.js + TypeScript**, apaixonado por construir APIs modernas, sistemas escaláveis e soluções bem estruturadas.
-
-🎯 **Atualmente estou buscando uma vaga como Desenvolvedor Backend.**
 
 ---
 
