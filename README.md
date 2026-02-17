@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou o Érico Toscano
+# 👋 Olá! Eu sou o Érico!
 
-🚀 Desenvolvedor Backend focado em **Node.js + TypeScript**, apaixonado por construir APIs modernas, sistemas escaláveis e soluções bem estruturadas.
+🚀 Desenvolvedor Backend focado em **Node.js + TypeScript**, com predilação por construir APIs modernas, sistemas escaláveis e soluções bem estruturadas.
 
 🎯 **Atualmente estou buscando uma vaga como Desenvolvedor Backend.**
 
