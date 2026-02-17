@@ -1,29 +1,28 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563eb&height=180&section=header&text=Érico%20Toscano&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563eb&height=190&section=header&text=Érico%20Toscano&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=600&lines=Backend+Developer;Node.js+%2B+TypeScript;MongoDB+%7C+MySQL;Buscando+vaga+Backend+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=750&lines=Backend+Developer+%7C+Node.js+%2B+TypeScript;MongoDB+%7C+MySQL+%7C+APIs+REST;Ethereum+dApps+%7C+Solidity+%7C+Smart+Contracts;Buscando+vaga+Backend+%2F+Web3+🚀" />
 </p>
 
 ---
 
-# 👋 Olá, eu sou o Érico Toscano
+# 👋 Olá! Eu sou o Érico Toscano!
 
-🚀 Desenvolvedor Backend focado em **Node.js + TypeScript**, apaixonado por construir APIs modernas, sistemas escaláveis e soluções bem estruturadas.
-
-🎯 **Atualmente estou buscando uma vaga como Desenvolvedor Backend.**
+🚀 Desenvolvedor **Backend + Web3** focado em **Node.js + TypeScript**, apaixonado por construir APIs modernas, sistemas escaláveis e aplicações descentralizadas na rede Ethereum.
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-- 💻 Desenvolvimento backend com foco em performance e boas práticas  
-- ⚙️ APIs REST, autenticação, arquitetura limpa  
-- 🗄️ Bancos relacionais e NoSQL  
-- 📚 Sempre aprendendo e evoluindo como engenheiro de software  
+- 💻 Desenvolvimento backend com foco em arquitetura limpa e performance  
+- ⚙️ Construção de **APIs REST**, autenticação e sistemas escaláveis  
+- 🗄️ Experiência com bancos relacionais e NoSQL  
+- 🔗 Desenvolvimento de **dApps** e integração com smart contracts  
+- 📚 Sempre evoluindo em engenharia de software e blockchain  
 
 ---
 
@@ -35,26 +34,42 @@
 
 ---
 
+## ⛓️ Blockchain & Web3 (Ethereum)
+
+Tecnologias que venho utilizando no ecossistema Ethereum:
+
+- **Solidity** para desenvolvimento de smart contracts  
+- **Hardhat** para testes, deploy e ambiente de desenvolvimento  
+- **ethers.js** para integração entre backend e blockchain  
+- Construção de **dApps** e aplicações Web3  
+- Conceitos de criptografia aplicada e assinaturas digitais  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=solidity" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ethers.js-000?style=for-the-badge&logo=ethereum&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hardhat-000?style=for-the-badge&logo=ethereum&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/Smart%20Contracts-111827?style=for-the-badge&logo=ethereum&logoColor=blue"/>
+</p>
+
+---
+
 ## 🛠️ Projetos em Destaque
 
 <p align="center">
+  <a href="https://github.com/ericotoscano/auth-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ericotoscano&repo=auth-api&theme=transparent" />
+  </a>
 
-### 🔐 Auth API  
-API de autenticação completa com Node.js e TypeScript  
-➡️ **[Repositório](https://github.com/ericotoscano/auth-api)**  
+  <a href="https://github.com/ericotoscano/song-lyrics-dapp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ericotoscano&repo=song-lyrics-dapp&theme=transparent" />
+  </a>
 
----
-
-### 🎵 Song Lyrics DApp  
-DApp envolvendo blockchain e integração Web3  
-➡️ **[Repositório](https://github.com/ericotoscano/song-lyrics-dapp)**  
-
----
-
-### 🔑 ECDSA Node  
-Criptografia e assinaturas digitais aplicadas em Node.js  
-➡️ **[Repositório](https://github.com/ericotoscano/ecdsa-node)**  
-
+  <a href="https://github.com/ericotoscano/ecdsa-node">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ericotoscano&repo=ecdsa-node&theme=transparent" />
+  </a>
 </p>
 
 ---
@@ -62,8 +77,8 @@ Criptografia e assinaturas digitais aplicadas em Node.js
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ericotoscano&show_icons=true&theme=transparent" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericotoscano&layout=compact&theme=transparent" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ericotoscano&show_icons=true&theme=transparent" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericotoscano&layout=compact&theme=transparent" />
 </p>
 
 ---
@@ -89,6 +104,10 @@ Criptografia e assinaturas digitais aplicadas em Node.js
 <p align="center">
   <a href="https://www.linkedin.com/in/érico-toscano">
     <img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:dev.ericotoscano@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
