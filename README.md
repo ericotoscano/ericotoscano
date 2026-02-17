@@ -29,7 +29,12 @@
 ## 🚀 Stack Principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,mongodb,mysql,git,docker,postman" />
+  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+  <img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
 </p>
 
 ---
@@ -38,14 +43,16 @@
 
 Tecnologias que venho utilizando no desenvolvimento de aplicações descentralizadas:
 
-- **ethers.js** para integração com smart contracts  
+- Biblioteca **ethers.js** para integração com smart contracts  
 - **Hardhat** para ambiente de testes e deploy  
-- Desenvolvimento de **dApps** na rede Ethereum  
+- **Solidity** para desenvolvimento de smart contracts  
 - Exploração de criptografia aplicada e assinaturas digitais  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ethers.js-000?style=for-the-badge&logo=ethereum&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hardhat-000?style=for-the-badge&logo=ethereum&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/Ethereum-111827?style=for-the-badge&logo=ethereum&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Solidity-111827?style=for-the-badge&logo=solidity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ethers.js-111827?style=for-the-badge&logo=ethereum&logoColor=6C63FF"/>
+  <img src="https://img.shields.io/badge/Hardhat-111827?style=for-the-badge&logo=ethereum&logoColor=yellow"/>
 </p>
 
 ---
@@ -70,27 +77,10 @@ Criptografia e assinaturas digitais aplicadas em Node.js
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ericotoscano&show_icons=true&theme=transparent" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericotoscano&layout=compact&theme=transparent" />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ericotoscano&theme=transparent" />
-</p>
-
----
-
-## 👀 Visitantes
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ericotoscano&label=Profile%20Views&color=2563eb&style=flat" />
 </p>
 
 ---
